@@ -33,9 +33,9 @@ enabling you to block VTuber videos and channels from appearing or autoplaying o
 
 ## 🛠 Contributing
 
-At this time, I am **not actively managing pull requests**. If you'd like to expand or customize this list, feel free to **fork the repository** and maintain your own version.
+At this time, I am not **ACTIVELY** managing pull requests, but if I get free time I'll be happy to consider them. If you'd like to expand or customize this list, feel free to **fork the repository** and maintain your own version.
 
-You're also welcome to open an issue to suggest additions, but updates may be slow due to limited time.
+You're also welcome to open an issue to suggest additions, but updates may be slow due to real life time restraints.
 
 ---
 
