@@ -1,6 +1,50 @@
-This is a simple list of VTuber YouTube Channel IDs for use in the BlockTube browser extension.
+# BlockTube VTuber Block List
 
-I recommend using Firefox, I have never tested this in Chrome as I do not use it.
+A curated list of VTuber YouTube channel IDs for use with the [BlockTube](https://github.com/amitbl/blocktube) browser extension.
+This project helps users avoid VTuber-related content across YouTube's homepage, recommendations, and search results.
+
+---
+
+## 🚀 Quick Start
+
+1. **Install the BlockTube Extension:**
+
+   * [Chrome Web Store](https://chromewebstore.google.com/detail/blocktube/bbeaicapbccfllodepmimpkgecanonai?hl=en-US)
+   * [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/blocktube/)
+   * [GitHub Source Code](https://github.com/amitbl/blocktube)
+
+2. **Choose Your Installation Method:**
+
+   ✅ **Option 1: Import Method**
+
+   * Download the `VTubers.json` file from this repository.
+   * In BlockTube, scroll to the bottom right of the UI and click **"Import"**.
+   * Select the downloaded file and confirm.
+
+   ✅ **Option 2: Manual Copy-Paste**
+
+   * Copy the code below.
+   * Open BlockTube and paste the contents into the **"Channel ID"** box in your Filter Options.
+
+3. **Refresh YouTube:**
+   Changes take effect immediately once BlockTube is reloaded.
+
+---
+
+## 🛠 Contributing
+
+At this time, I am **not actively managing pull requests**. If you'd like to expand or customize this list, feel free to **fork the repository** and maintain your own version.
+
+You're also welcome to open an issue to suggest additions, but updates may be slow due to limited time.
+
+---
+
+## 📄 License
+
+This project is licensed under the [GNU GPL v3.0](LICENSE).
+
+Free to use, modify, and redistribute — just don’t VTube about it. 😎
+
 
 ```
 // Spartakus
