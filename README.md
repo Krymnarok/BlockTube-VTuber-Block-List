@@ -1,3 +1,230 @@
 This is a simple list of VTuber YouTube Channel IDs for use in the BlockTube browser extension.
 
 I recommend using Firefox, I have never tested this in Chrome as I do not use it.
+
+```
+// Spartakus
+UC1K86xhR5OHR-s04jWYW2RA
+
+// Hakos Baelz Ch. hololive-EN
+UCgmPnx-EEeOrZSg5Tiw7ZRQ
+
+// Seible【NIJISANJI EN】
+UCCugV2RWXqJMjVVQl_Yh4TQ
+
+// Nimi Nightmare
+UCIfAvpeIWGHb0duCkMkmm2Q
+
+// Yuhi Riri Official
+UC48jH1ul-6HOrcSSfoR02fQ
+
+// Nanashi Mumei Ch. hololive-EN
+UC3n5uGu18FoCy23ggWWp8tA
+
+// Luna Ch. 姫森ルーナ
+UCa9Y57gfeY0Zro_noHRVrnw
+
+// Nimi Nightmare
+UCIfAvpeIWGHb0duCkMkmm2Q
+
+// Yuhi Riri Official
+UC48jH1ul-6HOrcSSfoR02fQ
+
+// Shiori Novella Hololive
+UCgnfPPb9JI3e9A4cXHnWbyg
+
+// Nerissa Ravencroft Hololive
+UC_sFNM0z0MWm9A6WlKPuMMg
+
+// Fuwawa & Mococo Abyssgard Hololive
+UCt9H_RpQzhxzlyBxFqrdHqA
+
+// Gigi Murin Hololive
+UCDHABijvPBnJm7F-KlNME3w
+
+// Raora Panthera Hololive
+UCl69AEx4MdqMZH7Jtsm7Tig
+
+// Cecilia Immergreen Hololive
+UCvN5h1ShZtc7nly3pezRayg
+
+// Elizabeth Rose Bloodflame Hololive
+UCW5uhrG1eCBYditmhL0Ykjw
+
+// Airani Iofifteen Hololive
+UCAoy6rzhSf4ydcYjJw3WoVg
+
+// Ayunda Risu Hololive
+UCOyYb1c43VlX9rc_lT6NKQw
+
+// Moona Hoshinova Hololive
+UCP0BspO_AMEe3aQqqpo89Dg
+
+// Anya Melfissa Hololive
+UC727SQYUvx5pDDGQpTICNWg
+
+// Pavolia Reine Hololive
+UChgTyjG-pdNvxxhdsXfHQ5Q
+
+// Kureiji Ollie Hololive
+UCYz_5n-uDuChHtLo7My1HnQ
+
+// Kobo Kanaeru Hololive
+UCjLEmnpCNeisMxy134KPwWw
+
+// Vestia Zeta Hololive
+UCTvHWSfBZgtxE4sILOaurIQ
+
+// Kaela Kovalskia Hololive
+UCZLZ8Jjx_RN2CXloOmgTHVg
+
+// Hanasaki Miyabi Hololive
+UC6t3-_N8A6ME1JShZHHqOMw
+
+// Rikka Hololive
+UC9mf_ZVpouoILRY9NUIaK-w
+
+// Arurandeisu Hololive
+UCKeAhJvy8zgXWbh9duVjIaQ
+
+// Kanade Izuru Hololive
+UCZgOv3YDEs-ZnZWDYVwJdmA
+
+// Kagami Kira Hololive
+UCEzsociuFqVwgZuMaZqaCsg
+
+// Yakushiji Suzaku Hololive
+UCGKgJ4MtJ1coi6tWJUfnsQA
+
+// Yukoku Roberu Hololive
+UCANDOlYTJT7N5jlRC3zfzVA
+
+// Kishido Temma Hololive
+UCGNI4MENvnsymYjKiZwv9eg
+
+// Astel Leda Hololive
+UCNVEsYbiZjH5QLmGeSgTSzg
+
+// Kageyama Shien Hololive
+UChSvpZYRPh0FvG4SJGSga3g
+
+// Aragami Oga Hololive
+UCwL7dgTxKo8Y4RFIKWaf8gA
+
+// Tsukishita Kaoru Hololive
+UCsehvfwaWF6nWuFnXI0AqZQ
+
+// Yatogami Fuma Hololive
+UCc88OV45ICgHbn3ZqLLb52w
+
+// Minase Rio Hololive
+UCdfMHxjcCc2HSd9qFvfJgjg
+
+// Utsugi Uyu Hololive
+UCgRqGV1gBf2Esxh0Tz1vxzw
+
+// Hizaki Gamma Hololive
+UCkT1u65YS49ca_LsFwcTakw
+
+// Axel Syrios Hololive
+UC2hx0xVkMoHGWijwr_lA01w
+
+// Regis Altare Hololive
+UCyxtGMdWlURZ30WSnEjDOQw
+
+// Magni Dezmond Hololive
+UC7MMNHR-kf9EN1rXiesMTMw
+
+// Noir Vesper Hololive
+UCDRWSO281bIHYVi-OV3iFYA
+
+// Machina X Flayon Hololive
+UC060r4zABV18vcahAWR1n7w
+
+// Banzoin Hakka Hololive
+UC7gxU6NXjKF1LrgOddPzgTw
+
+// Gavis Bettel Hololive
+UCHP4f7G2dWD4qib7BMatGAw
+
+// Josuiji Shinri Hololive
+UCMqGG8BRAiI1lJfKOpETM_w
+
+// Crimzon Ruze Hololive
+UCajbFh6e_R8QZdHAMbbi4rQ
+
+// Goldbullet Hololive
+UCJv02SHZgav7Mv3V0kBOR8Q
+
+// Octavio Hololive
+UCLk1hcmxg8rJ3Nm1_GvxTRA
+
+// Jurard T Rexford Hololive
+UCTVSOgYuSWmNAt-lnJPkEEw
+
+// Todoroki Hajime Hololive
+UC1iA6_NT4mtAcIII6ygrvCw
+
+// Juufuutei Raden Hololive
+UCdXAk5MpyLD8594lm_OvtGQ
+
+// Hiodoshi Ao Hololive
+UCMGfV7TVTmHhEErVJg1oHBQ
+
+// Ichijou Ririka Hololive
+UCtyWhCj3AqKh2dXctLkDtng
+
+// Otonose Kanade Hololive
+UCWQtYtq9EOB4-I5P-3fh8lA
+
+// Isaki Riona Hololive
+UC9LSiN9hXI55svYEBrrK-tw
+
+// Kikirara Vivi Hololive
+UCGzTVXqMQHa4AgJVJIVvtDQ
+
+// Mizumiya Su Hololive
+UCjk2nKmHzgH5Xy-C5qYRd5A
+
+// Rindo Chihaya Hololive
+UCKMWFR6lAstLa7Vbf5dH7ig
+
+// Koganei Niko Hololive
+UCuI_opAVX6qbxZY-a-AxFuQ
+
+// Blue Journey Hololive
+UCrEgFGxfrKGyy17V9csSa5w
+
+// Holoearth Hololive
+UCfpWrWvbA34LmrZ9h4Lbwag
+
+// Ankimo Hololive
+UCGSOfFtVCTBfmGxHK5OD8ag
+
+// Omegaα hololive-EN Hololive
+UCKYyiJwNg2nV7hM86U5_wvw
+
+// HLZNTL Hololive
+UCl7xaOxJUq7GsD4M8N68FaA
+
+// hololive English Shorts Hololive
+UCNoxM_Kxoa-_gOtoyjbux7Q
+
+// Midnight Grand Orchestra Hololive
+UCnVbtCwr-5LXxUlGxsgD7sQ
+
+// holo indie Hololive
+UCt4-iv7EP0UU_w733D_r_jA
+
+// YAGOO Hololive
+UCu2DMOGLeR_DSStCyeQpi5Q
+
+// Civia Hololive
+UCgNVXGlZIFK96XdEY20sVjg
+
+// ironmouse
+UChgPVLjqugDQpRLWvC7zzig
+
+// kson ONAIR
+UC9ruVYPv7yJmV0Rh0NKA-Lw
+```
