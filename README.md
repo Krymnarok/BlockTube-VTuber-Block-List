@@ -1,7 +1,7 @@
 # BlockTube VTuber Block List
 
-A curated list of VTuber YouTube channel IDs for use with the [BlockTube](https://github.com/amitbl/blocktube) browser extension.
-This project helps users avoid VTuber-related content across YouTube's homepage, recommendations, and search results.
+This project provides a filtered list of VTuber channel IDs for use with [BlockTube](https://github.com/amitbl/blocktube) browser extension, 
+enabling you to block VTuber videos and channels from appearing or autoplaying on YouTube based on those filters.
 
 ---
 
