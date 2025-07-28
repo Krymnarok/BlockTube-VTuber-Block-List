@@ -403,4 +403,10 @@ UCvjNdLLy5sinqD92Axk8w-g
 
 // catschais
 UC7KheiH8iO_3-DMGFmncjCg
+
+// ほろひゃく【ホロライブ切り抜き】
+UCKQQxy2mTsxuyF3BT6XDj1Q
+
+// Nuxanor
+UCNgWKYz-_O0ji11BG9crjLA
 ```
